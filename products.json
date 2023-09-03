@@ -1,0 +1,284 @@
+[{
+  "product_id": "12345",
+  "name": "Smartphone",
+  "brand": "Apple",
+  "price": 999.99,
+  "currency": "USD",
+  "description": "The latest iPhone with a stunning OLED display and powerful A15 Bionic chip.",
+  "availability": true,
+  "category": "Electronics",
+  "ratings": {
+    "average_rating": 4.5,
+    "total_reviews": 100
+  },
+  "features": [
+    "6.1-inch OLED display",
+    "12MP dual-camera system",
+    "Face ID for secure authentication",
+    "iOS 15 with App Store access",
+    "Available in multiple colors"
+  ],
+  "images": [
+    "https://example.com/images/iphone-front.jpg",
+    "https://example.com/images/iphone-back.jpg",
+    "https://example.com/images/iphone-side.jpg"
+  ]
+},{
+  "product_id": "23456",
+  "name": "Laptop",
+  "brand": "Dell",
+  "price": 849.99,
+  "currency": "USD",
+  "description": "A high-performance laptop with a fast processor and a sleek design.",
+  "availability": true,
+  "category": "Electronics",
+  "ratings": {
+    "average_rating": 4.2,
+    "total_reviews": 85
+  },
+  "features": [
+    "15.6-inch Full HD display",
+    "Intel Core i7 processor",
+    "8GB RAM, 512GB SSD",
+    "Windows 10"
+  ],
+  "images": [
+    "https://example.com/images/dell-laptop-front.jpg",
+    "https://example.com/images/dell-laptop-back.jpg"
+  ]
+},{
+  "product_id": "34567",
+  "name": "Smart TV",
+  "brand": "Samsung",
+  "price": 799.99,
+  "currency": "USD",
+  "description": "A 55-inch 4K UHD Smart TV with built-in streaming apps.",
+  "availability": true,
+  "category": "Electronics",
+  "ratings": {
+    "average_rating": 4.6,
+    "total_reviews": 92
+  },
+  "features": [
+    "55-inch 4K UHD display",
+    "Smart TV with Netflix, Hulu, and more",
+    "Dolby Digital Plus audio",
+    "Voice remote"
+  ],
+  "images": [
+    "https://example.com/images/samsung-tv-front.jpg",
+    "https://example.com/images/samsung-tv-back.jpg"
+  ]
+},
+  {
+    "product_id": "45678",
+    "name": "Digital Camera",
+    "brand": "Canon",
+    "price": 499.99,
+    "currency": "USD",
+    "description": "A high-quality digital camera for photography enthusiasts.",
+    "availability": true,
+    "category": "Electronics",
+    "ratings": {
+      "average_rating": 4.8,
+      "total_reviews": 78
+    },
+    "features": [
+      "24.2MP CMOS sensor",
+      "3-inch LCD screen",
+      "4K video recording",
+      "Wi-Fi and NFC connectivity"
+    ],
+    "images": [
+      "https://example.com/images/canon-camera-front.jpg",
+      "https://example.com/images/canon-camera-back.jpg"
+    ]
+  },
+  {
+    "product_id": "56789",
+    "name": "Running Shoes",
+    "brand": "Nike",
+    "price": 129.99,
+    "currency": "USD",
+    "description": "High-performance running shoes for athletes.",
+    "availability": true,
+    "category": "Sports & Outdoors",
+    "ratings": {
+      "average_rating": 4.6,
+      "total_reviews": 65
+    },
+    "features": [
+      "Breathable mesh upper",
+      "Cushioned insole",
+      "Durable rubber outsole",
+      "Available in multiple colors"
+    ],
+    "images": [
+      "https://example.com/images/nike-shoes-front.jpg",
+      "https://example.com/images/nike-shoes-side.jpg"
+    ]
+  },
+  {
+    "product_id": "67890",
+    "name": "Coffee Maker",
+    "brand": "Keurig",
+    "price": 89.99,
+    "currency": "USD",
+    "description": "A single-serve coffee maker for quick and convenient brewing.",
+    "availability": true,
+    "category": "Home & Kitchen",
+    "ratings": {
+      "average_rating": 4.4,
+      "total_reviews": 82
+    },
+    "features": [
+      "Brews coffee, tea, and hot cocoa",
+      "Compatible with K-Cup pods",
+      "Adjustable brew size",
+      "Auto-off feature"
+    ],
+    "images": [
+      "https://example.com/images/keurig-coffee-maker-front.jpg",
+      "https://example.com/images/keurig-coffee-maker-side.jpg"
+    ]
+  },
+  {
+    "product_id": "78901",
+    "name": "Wireless Headphones",
+    "brand": "Sony",
+    "price": 179.99,
+    "currency": "USD",
+    "description": "Over-ear wireless headphones with noise-canceling technology.",
+    "availability": true,
+    "category": "Electronics",
+    "ratings": {
+      "average_rating": 4.7,
+      "total_reviews": 96
+    },
+    "features": [
+      "Noise-canceling technology",
+      "30-hour battery life",
+      "Touch controls",
+      "Bluetooth connectivity"
+    ],
+    "images": [
+      "https://example.com/images/sony-headphones-front.jpg",
+      "https://example.com/images/sony-headphones-side.jpg"
+    ]
+  },
+  {
+    "product_id": "89012",
+    "name": "Cookware Set",
+    "brand": "Cuisinart",
+    "price": 249.99,
+    "currency": "USD",
+    "description": "A complete set of high-quality stainless steel cookware.",
+    "availability": true,
+    "category": "Home & Kitchen",
+    "ratings": {
+      "average_rating": 4.5,
+      "total_reviews": 70
+    },
+    "features": [
+      "Stainless steel construction",
+      "Even heat distribution",
+      "Dishwasher safe",
+      "Includes pots, pans, and utensils"
+    ],
+    "images": [
+      "https://example.com/images/cuisinart-cookware-front.jpg",
+      "https://example.com/images/cuisinart-cookware-side.jpg"
+    ]
+  },
+  {
+    "product_id": "90123",
+    "name": "Fitness Tracker",
+    "brand": "Fitbit",
+    "price": 69.99,
+    "currency": "USD",
+    "description": "A sleek fitness tracker to monitor your activity and health.",
+    "availability": true,
+    "category": "Sports & Outdoors",
+    "ratings": {
+      "average_rating": 4.3,
+      "total_reviews": 88
+    },
+    "features": [
+      "Heart rate monitoring",
+      "Step tracking",
+      "Sleep tracking",
+      "Water-resistant"
+    ],
+    "images": [
+      "https://example.com/images/fitbit-tracker-front.jpg",
+      "https://example.com/images/fitbit-tracker-side.jpg"
+    ]
+  },
+  {
+    "product_id": "01234",
+    "name": "Backpack",
+    "brand": "The North Face",
+    "price": 79.99,
+    "currency": "USD",
+    "description": "A durable and spacious backpack for outdoor adventures.",
+    "availability": true,
+    "category": "Sports & Outdoors",
+    "ratings": {
+      "average_rating": 4.4,
+      "total_reviews": 76
+    },
+    "features": [
+      "Large main compartment",
+      "Padded shoulder straps",
+      "Hydration reservoir compatible",
+      "Multiple pockets"
+    ],
+    "images": [
+      "https://example.com/images/north-face-backpack-front.jpg",
+      "https://example.com/images/north-face-backpack-side.jpg"
+    ]
+  },
+  {
+    "product_id": "12340",
+    "name": "Blender",
+    "brand": "Vitamix",
+    "price": 299.99,
+    "currency": "USD",
+    "description": "A high-performance blender for smoothies and more.",
+    "availability": true,
+    "category": "Home & Kitchen",
+    "ratings": {
+      "average_rating": 4.8,
+      "total_reviews": 94
+    },
+    "features": [
+      "Powerful 2.2 HP motor",
+      "Variable speed control",
+      "Self-cleaning function",
+      "BPA-free container"
+    ],
+    "images": [
+      "https://example.com/images/vitamix-blender-front.jpg",
+      "https://example.com/images/vitamix-blender-side.jpg"
+    ]
+  },
+  {
+    "product_id": "23450",
+    "name": "Digital Watch",
+    "brand": "Casio",
+    "price": 49.99,
+    "currency": "USD",
+    "description": "A classic digital watch with a retro design.",
+    "availability": true,
+    "category": "Fashion",
+    "ratings": {
+      "average_rating": 4.2,
+      "total_reviews": 60
+    },
+    "features": [
+      "Digital display with backlight",
+      "Water-resistant",
+      "Alarm and stopwatch functions"]
+    }]
+     
+
